@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://HPUxiaoxiaqi.github.io</id>
     <title>Mr . lemon</title>
-    <updated>2019-08-27T07:59:31.865Z</updated>
+    <updated>2019-08-27T08:01:57.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://HPUxiaoxiaqi.github.io"/>
     <link rel="self" href="https://HPUxiaoxiaqi.github.io/atom.xml"/>
@@ -10,4 +10,17 @@
     <logo>https://HPUxiaoxiaqi.github.io/images/avatar.png</logo>
     <icon>https://HPUxiaoxiaqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Mr . lemon</rights>
+    <entry>
+        <title type="html"><![CDATA[Feelings]]></title>
+        <id>https://HPUxiaoxiaqi.github.io/post/about</id>
+        <link href="https://HPUxiaoxiaqi.github.io/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>在csdn上奋战了好长时间（三四个月而已），因为广告太多，页面体验感太差，所以一直想转战别的博客，但自己是个蒻芨，真的不会hexo+github搭建博客，无奈用了室友宁神的推荐方法——Gridea极速搭建方法；以后就先在这上面更新博客了，我一定会重返hexo；</p>
+<p>闻道有先后，术业有专攻；别人行的，你也可以；不急慢慢来，我会加油，</p>
+<p>.<br>
+.<br>
+Stolen refueling for you here --yq my baby</p>
+]]></content>
+    </entry>
 </feed>
