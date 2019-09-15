@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://HPUxiaoxiaqi.github.io</id>
     <title>Mr . lemon</title>
-    <updated>2019-08-30T07:26:20.362Z</updated>
+    <updated>2019-09-15T15:02:27.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://HPUxiaoxiaqi.github.io"/>
     <link rel="self" href="https://HPUxiaoxiaqi.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://HPUxiaoxiaqi.github.io/images/avatar.png</logo>
     <icon>https://HPUxiaoxiaqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Mr . lemon</rights>
+    <entry>
+        <title type="html"><![CDATA[TEM4]]></title>
+        <id>https://HPUxiaoxiaqi.github.io/post/tem4</id>
+        <link href="https://HPUxiaoxiaqi.github.io/post/tem4">
+        </link>
+        <updated>2019-09-15T14:46:44.000Z</updated>
+        <content type="html"><![CDATA[<p>长话多说，英语四级，90天 开始。<br>
+写这篇文章的目的只有一个，每天监督自己，晚上背单词，早上复习；（反着来）；<br>
+以后就在这里更新每天的情况和总结；Begin......</p>
+<ul>
+<li>2019.9.15.22.53<br>
+今日是第一天，稳了寝室两位大佬的意见，九十天还不晚，每天多背一点，及时复习；<img src="https://s5.ex2x.com/2019/09/15/1.png" alt=""></li>
+</ul>
+<p>.<br>
+.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summary of summer vacation]]></title>
         <id>https://HPUxiaoxiaqi.github.io/post/zz</id>
